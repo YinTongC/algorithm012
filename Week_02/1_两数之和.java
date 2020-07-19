@@ -18,6 +18,7 @@ class Solution {
 
 		return new int[] {};
     }
+    
 
 	// 哈希法
     public int[] twoSum(int[] nums, int target) {
